@@ -1,0 +1,37 @@
+[
+    {"page2":[
+    {
+        "image":"images/photoshop.png",
+        "title":"Adobe Photoshop",
+        "para":"Adobe Photoshop is a raster graphics editor developed and published by Adobe Systems for macOS and Windows. Photoshop was created in 1988 by Thomas and John Knoll."
+      },
+    {
+        "image":"images/HTML-img.jpg",
+        "title":"HTML",
+        "para":"HTML5 sera la nouvelle norme pour le HTML. HTML5 est destiné à englober non seulement HTML 4, mais aussi XHTML 1 et DOM niveau 2 ...",
+        "link":"#2"
+      },
+     {
+        "image":"images/COOPs2.jpg",
+        "title":"Poo C#",
+        "para":"Pourquoi utiliser la programmation orientée objet ? La programmation de logiciels a connu il y a quelques années le passage d une ère artisanale à une ère industrielle. Des logiciels de plus en plus complexes doivent être réalisés dans des délais de plus en plus courts, tout en maintenant le meilleur niveau de qualité possible. Comment faire pour répondre à ces exigences contradictoires ? La solution passe par l emploi de techniques de développement adaptées"
+      }
+     ]},{
+    "page3":[
+    {
+        "image":"images/fake-img.png",
+        "title":"fsdqfqsdf World",
+        "para":"efflorescere adipisicing summis fabulas duis iudicem pariatur ubi despicationes"
+      },
+    {
+        "image":"images/fake-img.png",
+        "title":"dfsfsdq fdzefz d",
+        "para":"zerzerczerczerc"
+      },
+     {
+        "image":"images/fake-img.png",
+        "title":"dsfsqdfs",
+        "para":"zerzerczerczerc"
+      }
+     ]}
+]
